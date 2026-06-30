@@ -1,5 +1,7 @@
 <div align="center">
 
+![Outsource Logo](docs/outsource-logo.png)
+
 # 外包.skill
 
 ### 把机械体力活外包给低配 session，让主线专注判断和写代码

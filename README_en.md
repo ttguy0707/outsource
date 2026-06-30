@@ -1,5 +1,7 @@
 <div align="center">
 
+![Outsource Logo](docs/outsource-logo.png)
+
 # Outsource.skill
 
 ### Delegate mechanical work to low-cost sessions, keep the main session focused on judgment and code
